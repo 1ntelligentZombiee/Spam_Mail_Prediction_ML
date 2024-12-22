@@ -4,9 +4,9 @@ A project leveraging machine learning to classify emails as spam or ham. This pr
 
 ## Team Members  
 
-- Esraa Matarawy Abdelmoniem (ID: 222150084)  
-- Roqaya Hassan Hamed (ID: 222150060)  
-- Tasnim Khaled Mohamed (ID: 222150099)  
+- Esraa Matarawy Abdelmoniem
+- Roqaya Hassan Hamed
+- Tasnim Khaled Mohamed 
 
 
 ## Table of Contents  
