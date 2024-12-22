@@ -71,8 +71,8 @@ Spam emails pose a persistent challenge in cybersecurity. This project employs N
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-repo-name.git  
-   cd your-repo-name  
+   git clone https://github.com/Spam_Mail_Prediction_ML.git  
+   cd Spam_Mail_Prediction_ML 
    ```  
 2. Install the required Python libraries:  
    ```bash  
