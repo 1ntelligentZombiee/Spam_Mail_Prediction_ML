@@ -13,7 +13,7 @@ A project leveraging machine learning to classify emails as spam or ham. This pr
 
 1. [Google Colab Code](Google_Colab_Code)  
 2. [HuggingFace Files](HF)  
-3. [Project Report](SpamMailPrediction.pdf)  
+3. [Project Report](Spam_Mail_Prediction.pdf)  
 4. [Demo](22.12.2024_23.04.52_REC.mp4)  
 
 ## Introduction  
