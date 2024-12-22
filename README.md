@@ -11,15 +11,10 @@ A project leveraging machine learning to classify emails as spam or ham. This pr
 
 ## Table of Contents  
 
-1. [Introduction](#introduction)  
-2. [Dataset](#dataset)  
-3. [Methodology](#methodology)  
-4. [Results](#results)  
-5. [Real-World Applications](#real-world-applications)  
-6. [Future Work](#future-work)  
-7. [Setup and Execution](#setup-and-execution)  
-8. [Links](#links)  
-9. [Authors](#authors)  
+1. [Google Colab Code](/Spam_Mail_Prediction_ML/Google_Colab_Code)  
+2. [HuggingFace Files](/Spam_Mail_Prediction_ML/HF)  
+3. [Project Report](/Spam_Mail_Prediction_ML/SpamMailPrediction.pdf)  
+4. [Demo](/Spam_Mail_Prediction_ML/22.12.2024_23.04.52_REC.mp4)  
 
 ## Introduction  
 
