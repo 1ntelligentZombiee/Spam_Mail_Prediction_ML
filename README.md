@@ -77,5 +77,5 @@ Spam emails pose a persistent challenge in cybersecurity. This project employs N
 
 ## Links  
 
-- **Google Colab**: [Run on Colab]([https://colab.research.google.com/your-link-here](https://colab.research.google.com/drive/1tgQtrE2ngGZixsrlNi2vqijYwoJ_EvL-?usp=sharing#scrollTo=XSkYEvNiISCT)  
-- **Hugging Face**: [Project Repository]([https://huggingface.co/your-link-here](https://huggingface.co/spaces/roqayahassan/MLProject)  
+- **Google Colab**: [Run on Colab](https://colab.research.google.com/drive/1tgQtrE2ngGZixsrlNi2vqijYwoJ_EvL-?usp=sharing#scrollTo=XSkYEvNiISCT)
+- **Hugging Face**: [Project Repository](https://huggingface.co/spaces/roqayahassan/MLProject)
